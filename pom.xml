@@ -16,7 +16,8 @@
     <maven.compiler.target>1.8</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-    
+    <sonar.host.url>http://13.61.182.123:9000/jaivn</sonar.host.url>
+    <sonar.login>squ_b41623f0a79fb8c28269cbeae8c36d2404f373e7</sonar.login>
 
   </properties>
 
